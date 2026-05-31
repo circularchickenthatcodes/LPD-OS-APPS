@@ -6,3 +6,12 @@
     "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/calc.zip"
   }
 ]
+
+[
+  {
+    "name": "Minesweeper",
+    "version": "1.0.0",
+    "description": "A simple Mineweeper game.",
+    "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/Minsweeper.zip"
+  }
+]
