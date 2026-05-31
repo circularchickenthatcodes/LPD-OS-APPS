@@ -24,3 +24,12 @@
     "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/FPS.zip"
   }
 ]
+
+[
+  {
+    "name": "RPG",
+    "version": "1.0.0",
+    "description": "Full blown dungeon RPG game for LPD-OS.",
+    "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/RPG.zip"
+  }
+]
