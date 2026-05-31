@@ -15,3 +15,12 @@
     "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/Minesweeper.zip"
   }
 ]
+
+[
+  {
+    "name": "FPS",
+    "version": "1.0.0",
+    "description": "A whole flipping mil-sim for LPD-OS.",
+    "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/FPS.zip"
+  }
+]
