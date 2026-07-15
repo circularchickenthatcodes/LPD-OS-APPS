@@ -33,3 +33,12 @@
     "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/RPG.zip"
   }
 ]
+
+[
+  {
+    "name": "ta",
+    "version": "1.0.0",
+    "description": "test app.",
+    "url": "https://raw.githubusercontent.com/circularchickenthatcodes/LPD-OS-APPS/main/packages/ta.zip"
+  }
+]
